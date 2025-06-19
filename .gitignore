@@ -1,0 +1,10 @@
+#ignore venv
+myvenv/
+
+__pycache__/
+*.pyc
+
+.vscode/
+*.DS_Store
+
+
