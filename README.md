@@ -1,6 +1,6 @@
 # Dockerized_ML_Pipeline
 
-This is a simplified, production-style AI microservice that:
+This is a simplified, AI microservice that:
 - Uses a GROQ LLM to generate company-related data
 - Saves the data into PostgreSQL and as a CSV backup
 - Embeds and stores the data in Chroma vector DB
